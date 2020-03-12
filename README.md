@@ -1,6 +1,6 @@
-## Adversarial Attack on Sentiment Analysis Models
+# Adversarial Attack on Sentiment Analysis Models
 
-# What I learnt?
+## What I learnt?
 
 - Text pre-processing (Lemmatization, POS Tagging, Noise removal, Tokenization, Removing stop words)
 - Building Long Short Term Memory (LSTM) model
